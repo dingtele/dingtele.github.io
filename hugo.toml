@@ -1,96 +1,69 @@
-baseurl = "/"
-languageCode = "en-us"
-# Add it only if you keep the theme in the `themes` directory.
-# Remove it if you use the theme as a remote Hugo Module.
-theme = "terminal"
-paginate = 5
+baseURL = 'https://your-domain.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-deck'
 
 [params]
-  # dir name of your main content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  author = "Your Name"
+  subtitle = "Your Subtitle"
+  bio = """
+Your bio text here. You can use **markdown** formatting.
+"""
+  
+  # Columns Configuration
+  [params.sections]
+    columns = [
+      { id = "now", title = "Now", category = "now", style = "now-column" },
+      { id = "write", title = "Writing", category = "write", style = "write-column" },
+      { id = "quote", title = "Quotes", category = "quotes", style = "quote-column" },
+      { id = "read", title = "Reading", category = "read", style = "read-column" },
+      { id = "til", title = "TIL", category = "til", style = "write-column" }
+    ]
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+# Main Menu Configuration
+# [[menu.main]]
+# name = "About"
+# url = "/about/"
+# weight = 10
 
-  # show selector to switch language
-  showLanguageSelector = false
+# [[menu.main]]
+# name = "Friends"
+# url = "/friends/"
+# weight = 20
 
-  # set theme to full screen width
-  fullWidthTheme = false
+# [[menu.main]]
+# name = "Projects"
+# url = "/projects/"
+# weight = 30
 
-  # center theme with default width
-  centerTheme = false
+[[menu.main]]
+name = "Rss"
+url = "/index.xml"
+weight = 40
 
-  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
-  # then the file will be used as a cover automatically.
-  # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
+# SEO related
+description = "Your site description here"
+images = ["/images/default-og-image.jpg"]  # 默认 Open Graph 图片
 
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+# Social media Card
+[params.social]
+  twitter = "yourusername"
 
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
+# RSS Configuration
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
 
-  # whether to show a page's estimated reading time
-  # readingTime = false # default
+[outputFormats.RSS]
+  mediatype = "application/rss+xml"
+  baseName = "index"
 
-  # whether to show a table of contents
-  # can be overridden in a page's front-matter
-  # Toc = false # default
+[services.rss]
+  limit = 20  # 限制 RSS 输出的文章数量
 
-  # set title for the table of contents
-  # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
-
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "Terminal"
-
-    [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
-
-      [languages.en.params.logo]
-        logoText = "Terminal"
-        logoHomeLink = "/"
-
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
 
 [module]
-  # In case you would like to make changes to the theme and keep it locally in you repository,
-  # uncomment the line below (and correct the local path if necessary).
-  # --
-  # replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
-[[module.imports]]
-  path = 'terminal'
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
