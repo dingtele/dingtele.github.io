@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home - My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on My New Hugo Site</description>
+    <title>Architecture - My New Hugo Site</title>
+    <link>http://localhost:1313/tags/architecture/</link>
+    <description>Recent content in Architecture on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
     
-    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 21:39:00 +0800</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -213,122 +213,6 @@ IIT克朗楼——回到申克尔传统
 【斜角的运用——使形式更具个性和精确性，它允许出现不平衡和内部应力，利用各种元素及周围环境的某种外在的一致性去取得平衡，这样的建筑失去了教条式的严谨性，增加了亲切感丰富感和情感，并最终扩展其活动范围】；
 阿尔托考虑周到和反应敏锐的建筑模式继承了把古典主义和乡土特色——也就是个性与规范——融合在一起的北欧基本传统
 芬兰音乐厅。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/2025-05-17-%E8%A1%80%E8%89%B2%E5%AD%90%E5%8D%88%E7%BA%BF/</link>
-      <pubDate>Sat, 17 May 2025 21:15:00 +0800</pubDate>
-      
-      <guid>http://localhost:1313/posts/2025-05-17-%E8%A1%80%E8%89%B2%E5%AD%90%E5%8D%88%E7%BA%BF/</guid>
-      <description>&lt;h2 id=&#34;血色子午线&#34;&gt;&lt;!-- raw HTML omitted --&gt;DONE&lt;!-- raw HTML omitted --&gt; 《血色子午线》 &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;文学&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;哥特&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;@read&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/%E8%A1%80%E8%89%B2%E5%AD%90%E5%8D%88%E7%BA%BF.jpg&#34;&gt;Book Cover&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;《血色子午线》&lt;/p&gt;
-&lt;p&gt;科马克·麦卡锡
-30个笔记&lt;/p&gt;
-&lt;p&gt;4&lt;/p&gt;
-&lt;p&gt;◆ 2025/03/07发表想法&lt;/p&gt;
-&lt;p&gt;这个语言风格标点符号确实没啥必要，导入英文版逐段机翻搭配看就明朗了&lt;/p&gt;
-&lt;p&gt;5&lt;/p&gt;
-&lt;p&gt;◆ 他浑身污浊地走开，身上散发恶臭，如同战争母兽刚产下的幼子&lt;/p&gt;
-&lt;p&gt;◆ 眼睛已在眼窝里煮熟&lt;/p&gt;
-&lt;p&gt;10&lt;/p&gt;
-&lt;p&gt;◆ 2025/03/13发表想法&lt;/p&gt;
-&lt;p&gt;大演说家演说万物&lt;/p&gt;
-&lt;p&gt;原文：他指着那孤零零的荒山，不知道出于什么目的，发表了一番言说，当时不懂，现在也不懂，然后他总结道，正如他所说，我们的地球母亲就像鸡蛋一样是圆的，把所有好的东西都藏在里面。&lt;/p&gt;
-&lt;p&gt;◆ 2025/03/14发表想法&lt;/p&gt;
-&lt;p&gt;善良是一种神经弹性丧失的掩盖物，最好的方式是顺应法则&lt;/p&gt;
-&lt;p&gt;原文：我看看周围的人，当然，他们早已心灰意冷。尊严在他们身上荡然无存。他们都是心善的人，当时是，现在也是，我不喜欢看到他们那样，我以为法官来到我们中间是一个诅咒。但是他证明我错了。不过仅仅是当时而已。我现在又犹豫不决了。&lt;/p&gt;
-&lt;p&gt;◆ 2025/03/14发表想法&lt;/p&gt;
-&lt;p&gt;制作火药&lt;/p&gt;
-&lt;p&gt;原文：倒出木炭和硝石，用手混合，然后把硫黄加进去&lt;/p&gt;
-&lt;p&gt;◆ 2025/03/14发表想法&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The best way to predict the future is to invent it</title>
-      <link>http://localhost:1313/posts/quote-example/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/quote-example/</guid>
-      <description>&lt;p&gt;Additional context or notes about this quote can be added here, but won&amp;rsquo;t be displayed in the quote column.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Pragmatic Programmer</title>
-      <link>http://localhost:1313/posts/read-example/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/read-example/</guid>
-      <description>&lt;p&gt;A comprehensive review of this programming classic&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;pragmatic-programmer.jpg&#34; alt=&#34;Book Cover&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>TIL: Hugo&#39;s Page Resources</title>
-      <link>http://localhost:1313/posts/til-example/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/til-example/</guid>
-      <description>&lt;p&gt;Today I learned that Hugo&amp;rsquo;s Page Resources feature allows you to co-locate images and other assets with your content files.&lt;/p&gt;
-&lt;p&gt;This makes it easier to organize and maintain your content, as all related files are kept together.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Working on improving the Hugo Theme Deck</title>
-      <link>http://localhost:1313/posts/now-example/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/now-example/</guid>
-      <description>&lt;p&gt;Working on improving the Hugo Theme Deck documentation and adding more example posts to demonstrate different column styles. 🚀&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Write Column Example</title>
-      <link>http://localhost:1313/posts/write-example/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/write-example/</guid>
-      <description>&lt;p&gt;This is a summary paragraph that will be shown in the write column card. It should be concise and informative, giving readers a quick overview of the article.&lt;/p&gt;
-&lt;h2 id=&#34;markdown-features&#34;&gt;Markdown Features&lt;/h2&gt;
-&lt;p&gt;Here&amp;rsquo;s a demonstration of various markdown features that work in the single post view:&lt;/p&gt;
-&lt;h3 id=&#34;text-formatting&#34;&gt;Text Formatting&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bold text&lt;/strong&gt; for emphasis&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Italic text&lt;/em&gt; for subtle emphasis&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Inline code&lt;/code&gt; for technical terms&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;lists-and-quotes&#34;&gt;Lists and Quotes&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;First item&lt;/li&gt;
-&lt;li&gt;Second item&lt;/li&gt;
-&lt;li&gt;Third item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a blockquote that shows how quotes look in the article.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>生活不是等待暴风雨过去，而是学会在雨中跳舞</title>
-      <link>http://localhost:1313/posts/example-quote/</link>
-      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/example-quote/</guid>
-      <description>&lt;p&gt;生活不是等待暴风雨过去，而是学会在雨中跳舞。&lt;/p&gt;
-&lt;p&gt;测试&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>一个旨在使自己变得花狸狐哨的博客！t</title>
-      <link>http://localhost:1313/posts/pinned-post/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/pinned-post/</guid>
-      <description>&lt;p&gt;description: &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;</description>
     </item>
     
   </channel>

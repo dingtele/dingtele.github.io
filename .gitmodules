@@ -10,3 +10,9 @@
 [submodule "themes/hugo-theme-deck"]
 	path = themes/hugo-theme-deck
 	url = https://github.com/yibie/hugo-theme-deck
+[submodule "themes/lotusdocs"]
+	path = themes/lotusdocs
+	url = https://github.com/colinwilson/lotusdocs
+[submodule "themes/hugo-theme-relearn"]
+	path = themes/hugo-theme-relearn
+	url = https://github.com/McShelby/hugo-theme-relearn.git

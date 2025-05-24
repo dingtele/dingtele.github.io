@@ -9,10 +9,19 @@
     
     
     
-    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 21:39:00 +0800</lastBuildDate>
     
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Read</title>
+      <link>http://localhost:1313/categories/read/</link>
+      <pubDate>Wed, 21 May 2025 21:39:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/read/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Now</title>
@@ -29,15 +38,6 @@
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/quotes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Read</title>
-      <link>http://localhost:1313/categories/read/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/read/</guid>
       <description></description>
     </item>
     
